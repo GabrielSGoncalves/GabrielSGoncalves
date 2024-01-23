@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Gabriel S. Gonçalves (S. from Santos, from my portuguese side), a Data Engineer from Brazil.
+## Hello stranger 🖖
+I'm **Gabriel S. Gonçalves** (S. from Santos, from my portuguese side), a **Data Engineer** from Brazil.
 
 - 🔭 I started my career in the academia working with bioinformatics, moving to the Data field where I worked with financial services and Machine Learning applied to sales.
 - 🏛️ I'm crazy about Data Architecture and solutions that enable companies extract the most out of Data.
