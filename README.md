@@ -2,6 +2,10 @@
 I'm Gabriel S. Gonçalves (S. from Santos, from my portuguese side), a Data Engineer from Brazil.
 
 - 🔭 I started my career in the academia working with bioinformatics, moving to the Data field where I worked with financial services and Machine Learning applied to sales.
+- 🏛️ I'm crazy about Data Architecture and solutions that enable companies extract the most out of Data.
+- 🐘 I believe storing data without a proper use is a waste of money for companies.
+- 🦉 You need to have a clear goal for your data strategy in order to transform it into information and finally decisions.
+- 💬 And I'm the right guy to help you with that!
 - ⚡ Fun fact: My father is a civil engineer and he wanted me to follow his career footsteps, but I decided to become a scientist. After becoming a Data Engineer, I thought he would be happy about me somehow following his engineering path, but he still doesn't understand what exactly I'm "building with data" in my current position 😄. 
 
 ## 🔗 Connect with me
@@ -13,21 +17,6 @@ I'm Gabriel S. Gonçalves (S. from Santos, from my portuguese side), a Data Engi
 
 * **Data Engineering:** Airflow, PySpark, Delta Lake, AWS Glue, Athena, Great Expectations
 * **Databases:** MySQL, Postgres, MongoDB, Neo4J, DynamoDB, Redshift, Snowflake, BigQuery
+* **Cloud Providers:** AWS, GCP
 * **Data Science and Analytics:** Jupyterlab, Polars, DuckDB, Plotly, Metabase
 * **Software Engineering:** AWS Lambda, SNS, SQS, REST, FastAPI
-
-
-<!--
-**GabrielSGoncalves/GabrielSGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
