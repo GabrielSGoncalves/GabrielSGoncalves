@@ -2,9 +2,9 @@
 I'm **Gabriel S. Gonçalves** (S. from Santos, from my portuguese side), a **Data Engineer** from Brazil.
 
 - 🔭 I started my career in the academia working with bioinformatics, moving to the Data field where I worked with financial services and Machine Learning applied to sales.
-- 🏛️ I'm crazy about Data Architecture and solutions that enable companies extract the most out of Data.
+- 🏛️ I'm deeply passionate about Data Architecture and dedicated to create solutions that empower companies to extract maximum value from their Data.
 - 🐘 I believe storing data without a proper use is a waste of money for companies.
-- 🦉 You need to have a clear goal for your data strategy in order to transform it into information and finally decisions.
+- 🦉 You need to have a clear goal for your data strategy in order to transform it into information, and finally decisions.
 - 💬 And I'm the right guy to help you with that!
 - ⚡ Fun fact: My father is a civil engineer and he wanted me to follow his career footsteps, but I decided to become a scientist. After becoming a Data Engineer, I thought he would be happy about me somehow following his engineering path, but he still doesn't understand what exactly I'm "building with data" in my current position 😄. 
 
